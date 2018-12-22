@@ -5,8 +5,8 @@
 ```md
 ### Маша Иванова
 
-- Почта: [email@example.com](mailto:email@example.com)
 - Темы: HTML, CSS, JavaScript, Vue.js
+- Почта: [email@example.com](mailto:email@example.com)
 - Сети: [t.me/imaria](https://t.me/imaria), [vk.com/imaria](https://vk.com/imaria)
 ```
 
